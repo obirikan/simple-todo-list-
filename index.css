@@ -1,0 +1,30 @@
+body{
+
+
+}
+h1{
+    display: inline;
+}
+header{
+    border: 1px solid grey;
+
+}
+.fil{
+    float: right;
+    position:relative;
+    right: 100px;
+    top: 10px;
+}
+div{
+    border: 1px solid grey;
+    margin-top: 10px;
+}
+li{
+    list-style-type: none;
+    border-style: dotted;
+    padding: 20px;
+    margin: 20px;
+}
+button{
+    float:right;
+}
